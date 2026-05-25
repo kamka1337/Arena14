@@ -6,7 +6,7 @@
   components:
     - type: PsyonicsAbsorbable
     - type: STWeight
-      self: 1
+      self: 5
     - type: PointLightDisableOnEquip
     - type: ZoneArtifactDetectorTarget
       detectable: true
@@ -41,8 +41,6 @@
   parent: BaseArtifact
   id: BaseArtifactStorage
   components:
-    - type: Item
-      size: Huge
     - type: Storage
       maxItemSize: Huge
       grid:
