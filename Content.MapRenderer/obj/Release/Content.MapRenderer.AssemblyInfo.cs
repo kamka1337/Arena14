@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Content.MapRenderer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5418ed2cb720477f793ebf5ef2c10839ca4f397")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48533cba09d881cf62b04888d5db6457f8beca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Content.MapRenderer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Content.MapRenderer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
