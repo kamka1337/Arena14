@@ -228,11 +228,6 @@
     suitstorage: STWeaponRifleARX160
 
 - type: loadout
-  id: STWeaponRifleStalkerAK15L
-  equipment:
-    suitstorage: STWeaponRifleStalkerAK15
-
-- type: loadout
   id: STWeaponRifleStalkerAK12L
   equipment:
     suitstorage: STWeaponRifleStalkerAK12
@@ -251,11 +246,6 @@
   id: STWeaponSniperSKSpersecutorL
   equipment:
     suitstorage: STWeaponSniperSKSpersecutor
-
-- type: loadout
-  id: STWeaponSniperHK417L
-  equipment:
-    suitstorage: STWeaponSniperHK417
 
 - type: loadout
   id: STWeaponRifleOC14LiturgiaL

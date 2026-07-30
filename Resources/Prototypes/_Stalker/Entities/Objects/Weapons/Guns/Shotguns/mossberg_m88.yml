@@ -26,10 +26,7 @@
     angleIncrease: 10
     angleDecay: 50
     projectileSpeed: 50
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.15
+
 
 - type: entity
   parent: STBaseWeaponShotgunMossbergM88

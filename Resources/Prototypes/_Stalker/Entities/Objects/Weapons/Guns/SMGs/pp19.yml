@@ -55,10 +55,7 @@
         whitelist:
           tags:
           - STCartridge918
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.43
+
 
 - type: entity
   parent: STBaseWeaponSMGPP19

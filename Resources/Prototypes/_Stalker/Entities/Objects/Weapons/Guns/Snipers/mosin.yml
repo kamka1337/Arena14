@@ -33,10 +33,7 @@
     whitelist:
       tags:
       - STCartridge754
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.2
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 5
+
 
 - type: entity
   parent: STBaseWeaponSniperMosin

@@ -50,10 +50,6 @@
         whitelist:
           tags:
           - STCartridge545
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.6
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.47
 
 - type: entity
   parent: STBaseWeaponRifleOC14
@@ -146,10 +142,7 @@
     - Burst
     - SemiAuto
     - FullAuto
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.6
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.44
+
 
 - type: entity
   parent: STBaseWeaponRifleOC14

@@ -56,7 +56,3 @@
         gun_auto_sear: !type:ContainerSlot {}
         gun_chamber: !type:ContainerSlot {}
     - type: Craftable
-    - type: STWeaponDamageFalloff
-      falloffMultiplier: 1.4
-    - type: STWeaponAccuracy
-      accuracyMultiplier: 1.4

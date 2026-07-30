@@ -27,10 +27,7 @@
     projectileSpeed: 50
   - type: BallisticAmmoProvider
     capacity: 2
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.15
+
 
 - type: entity
   parent: STBaseWeaponShotgunSawedOf

@@ -21,7 +21,114 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cab4342c-9184-4a1c-bdb8-27c97e629f2f" name="Changes" comment="" />
+    <list default="true" id="cab4342c-9184-4a1c-bdb8-27c97e629f2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Stalker14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Stalker14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Release/Content.Benchmarks.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Release/Content.Client.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.IntegrationTests/obj/Release/Content.IntegrationTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.IntegrationTests/obj/Release/Content.IntegrationTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.IntegrationTests/obj/Release/Content.IntegrationTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.IntegrationTests/obj/Release/Content.IntegrationTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.MapRenderer/obj/Release/Content.MapRenderer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.MapRenderer/obj/Release/Content.MapRenderer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.MapRenderer/obj/Release/Content.MapRenderer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.MapRenderer/obj/Release/Content.MapRenderer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Packaging/obj/Release/net8.0/Content.Packaging.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Packaging/obj/Release/net8.0/Content.Packaging.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Packaging/obj/Release/net8.0/Content.Packaging.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Packaging/obj/Release/net8.0/Content.Packaging.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.PatreonParser/obj/Release/net7.0/Content.PatreonParser.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.PatreonParser/obj/Release/net7.0/Content.PatreonParser.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.PatreonParser/obj/Release/net7.0/Content.PatreonParser.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.PatreonParser/obj/Release/net7.0/Content.PatreonParser.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Replay/obj/Release/Content.Replay.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Replay/obj/Release/Content.Replay.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Replay/obj/Release/Content.Replay.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Replay/obj/Release/Content.Replay.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server.Database/obj/Release/Content.Server.Database.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server.Database/obj/Release/Content.Server.Database.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server.Database/obj/Release/Content.Server.Database.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server.Database/obj/Release/Content.Server.Database.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server/obj/Release/Content.Server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server/obj/Release/Content.Server.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server/obj/Release/Content.Server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server/obj/Release/Content.Server.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared.Database/obj/Release/net8.0/Content.Shared.Database.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared.Database/obj/Release/net8.0/Content.Shared.Database.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared.Database/obj/Release/net8.0/Content.Shared.Database.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared.Database/obj/Release/net8.0/Content.Shared.Database.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared/obj/Release/Content.Shared.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared/obj/Release/Content.Shared.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared/obj/Release/Content.Shared.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared/obj/Release/Content.Shared.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tests/obj/Release/Content.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tests/obj/Release/Content.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tests/obj/Release/Content.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tests/obj/Release/Content.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tools/obj/Release/net8.0/Content.Tools.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tools/obj/Release/net8.0/Content.Tools.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tools/obj/Release/net8.0/Content.Tools.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tools/obj/Release/net8.0/Content.Tools.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.YAMLLinter/obj/Release/Content.YAMLLinter.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.YAMLLinter/obj/Release/Content.YAMLLinter.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.YAMLLinter/obj/Release/Content.YAMLLinter.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.YAMLLinter/obj/Release/Content.YAMLLinter.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Client/obj/Release/net8.0/Content.Corvax.Interfaces.Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Client/obj/Release/net8.0/Content.Corvax.Interfaces.Client.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Client/obj/Release/net8.0/Content.Corvax.Interfaces.Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Client/obj/Release/net8.0/Content.Corvax.Interfaces.Client.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Server/obj/Release/net8.0/Content.Corvax.Interfaces.Server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Server/obj/Release/net8.0/Content.Corvax.Interfaces.Server.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Server/obj/Release/net8.0/Content.Corvax.Interfaces.Server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Server/obj/Release/net8.0/Content.Corvax.Interfaces.Server.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Shared/obj/Release/net8.0/Content.Corvax.Interfaces.Shared.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Shared/obj/Release/net8.0/Content.Corvax.Interfaces.Shared.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Shared/obj/Release/net8.0/Content.Corvax.Interfaces.Shared.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Corvax/Content.Corvax.Interfaces.Shared/obj/Release/net8.0/Content.Corvax.Interfaces.Shared.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Release/net8.0/Pow3r.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Maps/_Arena/LimanskLobbyV1.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Maps/_Arena/LimanskLobbyV1.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Maps/_ST/World/AgropromV89.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Maps/_ST/World/AgropromV89.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Maps/_ST/World/RedForestV76.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Maps/_ST/World/RedForestV76.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Maps/_ST/World/UndegroundWildsBar100radsV36.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Maps/_ST/World/UndegroundWildsBar100radsV36.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Maps/_ST/World/limanskV143.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Maps/_ST/World/limanskV143.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Arena/Loadouts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Arena/Loadouts.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Mobs/Guard/MonolithGuardMobs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Mobs/Guard/MonolithGuardMobs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/MachineGuns/M249.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/MachineGuns/M249.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/MachineGuns/RPD.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/MachineGuns/RPD.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/APS.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/APS.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/GSH_18.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/GSH_18.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/Glock_17.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/Glock_17.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/PM.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/PM.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/TEC9.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/TEC9.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/TT.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Pistols/TT.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/ChiappaRhino_60DS.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/ChiappaRhino_60DS.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/DanWesson_715.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/DanWesson_715.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/Mateba.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/Mateba.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/RugerRedhawk.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/RugerRedhawk.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/SW_325.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/SW_325.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/SW_625.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/SW_625.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/SW_PC_325TR.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/SW_PC_325TR.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/TaurusJudge.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/TaurusJudge.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/Taurus_Tracker_425.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Revolvers/Taurus_Tracker_425.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/AKM.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/AKM.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/AS_VAL.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/AS_VAL.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/Abakan.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/Abakan.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/FN_F2000.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/FN_F2000.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/Galatz.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/Galatz.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/Galil.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/Galil.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/L85.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/L85.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/M14.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/M14.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/M16.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/M16.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/M4.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/M4.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/_Skins/AK_104.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/_Skins/AK_104.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/_Skins/AK_12.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/_Skins/AK_12.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/ak103.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/ak103.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/aks74.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/aks74.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/fal.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/fal.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/g36.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/g36.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/metroguns.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/metroguns.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/oc14.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/oc14.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/scar.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/scar.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/sig.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Rifles/sig.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/FN_P90.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/FN_P90.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/base.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/base.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/cp2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/cp2.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/mp40.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/mp40.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/mp5.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/mp5.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/pp19.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/pp19.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/pp19_01.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/pp19_01.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/pp91.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/pp91.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/vz61.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/SMGs/vz61.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/Protecta.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/Protecta.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/ks-23.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/ks-23.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mossberg_m88.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mossberg_m88.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mp133.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mp133.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mp153.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mp153.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mp155.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/mp155.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/saiga12.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/saiga12.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/sawedOff.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/sawedOff.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/spas12.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/spas12.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/toz34.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/toz34.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/usas12.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Shotguns/usas12.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/mosin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/mosin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/sks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/sks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/svds.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/svds.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/vepr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/vepr.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/vss.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Prototypes/_Stalker/Entities/Objects/Weapons/Guns/Snipers/vss.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,21 +164,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Content.Client.executor": "Run",
-    ".NET Project.Robust.Server.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "1141",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Content.Client.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Robust.Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;zvvzvzvzv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Content.Client">
     <configuration name="Content.Benchmarks" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -355,6 +462,8 @@
       <workItem from="1776281033602" duration="1200000" />
       <workItem from="1776369225334" duration="3075000" />
       <workItem from="1776696257464" duration="670000" />
+      <workItem from="1784736751878" duration="1299000" />
+      <workItem from="1785411421351" duration="538000" />
     </task>
     <servers />
   </component>

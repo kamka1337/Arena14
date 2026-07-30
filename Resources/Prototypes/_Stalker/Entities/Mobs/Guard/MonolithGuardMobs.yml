@@ -86,10 +86,6 @@
     minAngle: 7
     maxAngle: 52
     angleIncrease: 1.53
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.9
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1
 
 - type: entity
   name: Неизвестный монолитовец
@@ -112,10 +108,6 @@
     minAngle: 0
     maxAngle: 32
     angleIncrease: 1
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.9
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1
 
 - type: entity
   name: Неизвестный монолитовец
@@ -141,10 +133,7 @@
     selectedMode: FullAuto
     availableModes:
     - FullAuto
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.9
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.1
+
 
 - type: entity
   name: Неизвестный монолитовец
@@ -175,7 +164,4 @@
     availableModes:
     - FullAuto
     fireRate: 8.5
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.2
+

@@ -67,10 +67,7 @@
     steps: 1
     zeroVisible: true
   - type: Craftable
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 1.4
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.4
+
 
 # REDO-MODULES
 - type: entity
@@ -121,7 +118,3 @@
         gun_magazine: !type:ContainerSlot
         gun_chamber: !type:ContainerSlot
     - type: Craftable
-    - type: STWeaponDamageFalloff
-      falloffMultiplier: 1.4
-    - type: STWeaponAccuracy
-      accuracyMultiplier: 1.4

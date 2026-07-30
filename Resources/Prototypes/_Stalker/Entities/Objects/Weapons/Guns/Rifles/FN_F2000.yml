@@ -48,10 +48,7 @@
   - type: Scope
     zoom: 1.1
     offset: 15
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.57
+
 
 - type: entity
   parent: STBaseWeaponRifleF2000

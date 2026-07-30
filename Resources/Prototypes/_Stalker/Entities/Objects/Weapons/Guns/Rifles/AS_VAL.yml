@@ -58,10 +58,7 @@
         whitelist:
           tags:
           - STCartridge939
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+
 
 - type: entity
   parent: STBaseWeaponRifleASVAL

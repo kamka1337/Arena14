@@ -75,10 +75,7 @@
         whitelist:
           tags:
           - STCartridge556
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.46
+
 
 - type: entity
   parent: STBaseWeaponRifleM4
@@ -117,10 +114,7 @@
     angleIncrease: 1.2
     angleDecay: 6
     projectileSpeed: 60
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.7
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.46
+
 
 - type: entity
   parent: STBaseWeaponRifleM4
@@ -154,10 +148,7 @@
     availableModes:
     - SemiAuto
     - FullAuto
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+
 
 - type: entity
   parent: STWeaponRifleLR300v1
@@ -210,7 +201,4 @@
     availableModes:
     - SemiAuto
     - FullAuto
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.7
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+

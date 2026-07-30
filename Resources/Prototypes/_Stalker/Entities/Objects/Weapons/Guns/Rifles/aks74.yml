@@ -56,10 +56,7 @@
         whitelist:
           tags:
           - STCartridge545
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -94,10 +91,7 @@
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/ak74m.rsi
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 5
+
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -128,10 +122,7 @@
     selectedMode: SemiAuto
     availableModes:
     - SemiAuto
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 1
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.43
+
 
 - type: entity
   parent: STWeaponRifleSaiga545
@@ -186,10 +177,7 @@
     - SemiAuto
     - FullAuto
     - Burst
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 5
+
 
 - type: entity
   parent: STBaseWeaponRifleAKS74
@@ -255,10 +243,7 @@
         whitelist:
           tags:
           - STWeaponModuleRifleScopeRu
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 5
+
 
 # AKS 74u
 - type: entity
@@ -288,10 +273,7 @@
     angleIncrease: 1.4
     angleDecay: 4.5
     projectileSpeed: 55
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.42
+
 
 - type: entity
   parent: STBaseWeaponRifleAKS74U
@@ -363,10 +345,7 @@
   - type: Sprite
     sprite: _Stalker/Objects/Weapons/Guns/Rifles/_Skins/am17.rsi
     scale: 1, 1
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.6
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.47
+
 
 - type: entity
   name: АК-105 Болотная тварь
@@ -424,7 +403,4 @@
         whitelist:
           tags:
             - STCartridge545
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 5
+

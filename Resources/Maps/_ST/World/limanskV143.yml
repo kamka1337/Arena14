@@ -179751,8 +179751,6 @@ entities:
       rot: -0.3490658503988659 rad
       pos: -63.4,-26.4
       parent: 1
-    - type: STWeaponDamageFalloff
-      modifiedFalloffMultiplier: 0.8
     - type: ChamberMagazineAmmoProvider
       boltClosed: True
     - type: STWeaponModuleContainer
