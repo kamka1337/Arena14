@@ -52,9 +52,5 @@
         whitelist:
           tags:
           - STCartridge545
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
   - type: FarGunshot
     sound: /Audio/_DZ/Effects/FarGunshots/supressed1.ogg

@@ -25,10 +25,7 @@
     angleIncrease: 10
     angleDecay: 55
     projectileSpeed: 50
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.25
+
 
 - type: entity
   parent: STBaseWeaponShotgunProtecta

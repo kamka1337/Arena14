@@ -32,10 +32,7 @@
     angleIncrease: 15
     angleDecay: 55
     projectileSpeed: 55
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.3
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.05
+
 
 - type: entity
   parent: STBaseWeaponShotgunKS23

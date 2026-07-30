@@ -164533,8 +164533,6 @@ entities:
       rot: -0.3490658503988659 rad
       pos: -197.51187,-89.53584
       parent: 1
-    - type: STWeaponDamageFalloff
-      modifiedFalloffMultiplier: 0.8
     - type: STWeaponModuleContainer
       cachedEffect:
         additionalAvailableModes: Invalid

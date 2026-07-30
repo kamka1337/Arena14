@@ -26,10 +26,7 @@
     angleIncrease: 10
     angleDecay: 50
     projectileSpeed: 55
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.15
+
 
 - type: entity
   parent: STBaseWeaponShotgunMP153
@@ -78,10 +75,7 @@
     sprite: _Stalker/Objects/Weapons/Guns/Shotguns/beneli.rsi
   - type: STWeight
     self: 3
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.2
+
 
 - type: entity
   parent: STBaseWeaponShotgunMP153

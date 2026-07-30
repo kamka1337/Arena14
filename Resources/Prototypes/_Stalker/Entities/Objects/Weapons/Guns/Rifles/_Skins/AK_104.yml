@@ -54,7 +54,4 @@
         whitelist:
           tags:
             - STCartridge739
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.56
+

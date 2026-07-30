@@ -65,10 +65,7 @@
       steps: 1
       zeroVisible: true
     - type: Craftable
-    - type: STWeaponDamageFalloff
-      falloffMultiplier: 1.4
-    - type: STWeaponAccuracy
-      accuracyMultiplier: 1.4
+
 
 - type: entity
   parent: WeaponPistolStalkerAPS

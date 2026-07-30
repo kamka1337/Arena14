@@ -58,10 +58,7 @@
         whitelist:
           tags:
           - STCartridge739
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.56
+
 
 - type: entity
   parent: STBaseWeaponRifleAK103
@@ -108,10 +105,7 @@
     angleIncrease: 1.25
     angleDecay: 8
     fireRate: 7
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.85
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.65
+
 
 - type: entity
   parent: STWeaponRifleSaiga545
@@ -167,10 +161,7 @@
         whitelist:
           tags:
           - STCartridge739
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 1
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.5
+
 
 - type: entity
   parent: STWeaponRifleSaiga739

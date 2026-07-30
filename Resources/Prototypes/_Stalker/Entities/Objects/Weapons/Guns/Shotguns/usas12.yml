@@ -71,10 +71,7 @@
       gun_magazine: !type:ContainerSlot {}
       gun_auto_sear: !type:ContainerSlot {}
       gun_chamber: !type:ContainerSlot {}
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.25
+
 
 - type: entity
   parent: STBaseWeaponShotgunUSAS

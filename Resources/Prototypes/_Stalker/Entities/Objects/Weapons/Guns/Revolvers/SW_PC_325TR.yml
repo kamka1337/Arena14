@@ -44,7 +44,3 @@
       delay: 1
     - type: RepositoryItem
       categoryName: Оружие
-    - type: STWeaponDamageFalloff
-      falloffMultiplier: 0.8
-    - type: STWeaponAccuracy
-      accuracyMultiplier: 1.43

@@ -32,10 +32,7 @@
     - SemiAuto
     - FullAuto
     - Burst
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.5
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.45
+
 
 - type: entity
   name: AEK-971
@@ -71,7 +68,4 @@
     - SemiAuto
     - FullAuto
     - Burst
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.46
+

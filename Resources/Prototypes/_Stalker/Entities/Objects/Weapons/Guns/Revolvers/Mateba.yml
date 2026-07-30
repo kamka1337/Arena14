@@ -30,10 +30,7 @@
     self: 1.57
   - type: PullDoAfter
     pullTime: 1.5
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.8
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.46
+
 
 # REDO-MODULES
 - type: entity

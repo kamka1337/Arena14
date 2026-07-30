@@ -25,10 +25,6 @@
     angleIncrease: 3
     angleDecay: 60
     projectileSpeed: 75
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 0.2
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 5
   - type: ChamberMagazineAmmoProvider
     soundRack:
       path: /Audio/_Stalker/Weapons/Guns/RifleGen/Cock/rifle_cock.ogg
@@ -181,10 +177,7 @@
       containers:
         gun_magazine: !type:ContainerSlot
         gun_chamber: !type:ContainerSlot
-    - type: STWeaponDamageFalloff
-      falloffMultiplier: 0.2
-    - type: STWeaponAccuracy
-      accuracyMultiplier: 5
+
 
 - type: entity
   parent: STBaseWeaponRifleSVDS

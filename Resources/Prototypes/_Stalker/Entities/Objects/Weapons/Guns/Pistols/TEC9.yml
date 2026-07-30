@@ -55,7 +55,4 @@
       gun_magazine: !type:ContainerSlot {}
       gun_auto_sear: !type:ContainerSlot {}
       gun_chamber: !type:ContainerSlot {}
-  - type: STWeaponDamageFalloff
-    falloffMultiplier: 1.4
-  - type: STWeaponAccuracy
-    accuracyMultiplier: 1.4
+
